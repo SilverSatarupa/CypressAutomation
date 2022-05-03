@@ -1,0 +1,11 @@
+{
+  "name": "abcdefghijklmnop",
+  "email": "abc@gmail.com",
+  "password":"1234567890",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "FirstName": "abcdefghijklmnop",
+  "LastName": "abcdefghijklmnop",
+  "NewEmail": "abcdefghijklmnop@gmail.com",
+  "Newpassword": "abcdefghijklmnop",
+  "ConfirmPassword": "abcdefghijklmnop"
+}
